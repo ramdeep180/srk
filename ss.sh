@@ -11,4 +11,4 @@ echo "The public ip is $PIP"
 echo "$1 is PSG"
 echo "2 is $TYPE"
 echo "3 is $ID" 
-
+echo "done"
